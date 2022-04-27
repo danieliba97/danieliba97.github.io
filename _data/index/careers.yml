@@ -4,12 +4,10 @@
     detail: Mantu
     i18n: company_a
   desc:
-    detail: - Interviewer E2
-            - Technical coach
-            - Scrum Master
+    detail: Interviewer E2, Technical coach, Scrum Master
     i18n: company_a_desc
   date:
-    detail: Nov 2021 - Present
+    detail: Nov 2021  Present
     i18n: company_a_date
   job:
     detail: Technical Lead
@@ -21,14 +19,10 @@
     detail: Mantu
     i18n: company_b
   desc:
-    detail: - SCRUM Master, responsible for facilitating and managing Agile development
-            - Technical coach of Business SCRUM Team
-            - Technical responsible of multiple applications for business
-            - Taking part in the design and the evolution of the ERP 
-            - Analyse, Design and Development of Intranet Applications
+    detail:  SCRUM Master, responsible for facilitating and managing Agile development, technical responsible of multiple applications for business, taking part in the design, development and the evolution of the ERP.
     i18n: company_b_desc
   date:
-    detail: Feb 2019 - Nov 2021
+    detail: Feb 2019   Nov 2021
     i18n: company_b_date
   job:
     detail: Software Engineer
@@ -42,7 +36,7 @@
     detail:
     i18n: company_c_desc
   date:
-    detail: Feb 2018 - Feb 2019
+    detail: Feb 2018   Feb 2019
     i18n: company_c_date
   job:
     detail: Junior Software Developer
