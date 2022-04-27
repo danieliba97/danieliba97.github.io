@@ -35,7 +35,7 @@
     i18n: company_b_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: Mantu
     i18n: company_c
   desc:
