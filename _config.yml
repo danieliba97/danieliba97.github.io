@@ -16,11 +16,11 @@ author:  # change following line to your infomation.
   last_name: Iba
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: 
-  linkedin_id: /florentin-daniel-iba-306916157
+  linkedin_id: florentin-daniel-iba-306916157
   facebook_username: 
   twitter_username: 
   email: daniel.iba97@gmail.com
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv:
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
