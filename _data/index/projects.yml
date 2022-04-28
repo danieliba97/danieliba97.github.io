@@ -1,15 +1,27 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-#- name: Python
+- name: Web application for optimizing stock market investment strategies
 #  i18n: cpython
 #  gh_user: python
 #  repo: cpython
 #  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
+  desc: Technologies: .NET Core, C#, JavaScript, Vue.js, LINQ, EF, T-SQL, xUnit, Visual Paradigm
 
-#- name: Google
+- name: Web application for optimizing collaborations on projects
 #  i18n: google
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
-#  desc: This is another project.
+   desc: Technologies: .NET Core, C#, JavaScript, Vue.js, LINQ, EF, T-SQL, xUnit, Visual Paradigm
+ 
+- name: Financial Planning Application
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+   desc: Technologies: Vue.js, Vuetify, JavaScript, Google Firebase, Node.js, Faker
+   
+- name: Time Series Web Application
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+   desc: Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap
