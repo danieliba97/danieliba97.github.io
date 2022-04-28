@@ -4,10 +4,10 @@
     detail: Mantu
     i18n: company_a
   desc:
-    detail: >
-             - Interviewer E2
-             - Technical coach
-             - Scrum Master
+    detail: |
+             '- Interviewer E2'
+             '- Technical coach'
+             '- Scrum Master'
     i18n: company_a_desc
   date:
     detail: 'Nov 2021 - Present'
