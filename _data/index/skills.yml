@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C#, JavaScript, SQL, VueJs, LINQ
-percentage: 85, 75, 80, 80, 80
+aspects: C#, JavaScript, SQL, VueJs, LINQ, .NET/.NET Core, TFS Git, Design Patterns
+percentage: 85, 75, 80, 80, 80, 75, 80, 60
