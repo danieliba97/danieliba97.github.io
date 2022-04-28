@@ -5,15 +5,15 @@
     i18n: company_a
   desc:
     detail: |
-             '- Interviewer E2'
-             '- Technical coach'
-             '- Scrum Master'
+             Technical Interviewer
+             Technical coach for my team
+             Scrum Master
     i18n: company_a_desc
   date:
     detail: 'Nov 2021 - Present'
     i18n: company_a_date
   job:
-    detail: Technical Lead
+    detail: Senior Software Engineer / Technical Lead
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -22,7 +22,10 @@
     detail: Mantu
     i18n: company_b
   desc:
-    detail: SCRUM Master, responsible for facilitating and managing Agile development, technical responsible of multiple applications for business, taking part in the design, development and the evolution of the ERP.
+    detail: |
+            SCRUM Master, responsible for facilitating and managing Agile development
+            Technical responsible of multiple applications for business
+            Taking part in the design, development and the evolution of the ERP
     i18n: company_b_desc
   date:
     detail: 'Feb 2019 - Nov 2021'
@@ -36,7 +39,8 @@
     detail: Mantu
     i18n: company_c
   desc:
-    detail:
+    detail: |
+            Worked on several web applications for the company's CRM
     i18n: company_c_desc
   date:
     detail: 'Feb 2018 - Feb 2019'
