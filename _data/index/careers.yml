@@ -4,10 +4,7 @@
     detail: Mantu
     i18n: company_a
   desc:
-    detail: |-
-             Technical Interviewer
-             Technical coach for my team
-             Scrum Master
+    detail: Senior software engineer for the CRM module of the company, responsible also for conducting technical interviews, coaching my team and having the role of scrum master.
     i18n: company_a_desc
   date:
     detail: 'Nov 2021 - Present'
@@ -22,10 +19,7 @@
     detail: Mantu
     i18n: company_b
   desc:
-    detail: |
-            SCRUM Master, responsible for facilitating and managing Agile development
-            Technical responsible of multiple applications for business
-            Taking part in the design, development and the evolution of the ERP
+    detail: Responsible for facilitating and managing Agile development with the role of scrum master, technical responsible of multiple applications for business, taking part in the design, development and the evolution of the ERP and level 3 support for our applications.
     i18n: company_b_desc
   date:
     detail: 'Feb 2019 - Nov 2021'
@@ -39,8 +33,7 @@
     detail: Mantu
     i18n: company_c
   desc:
-    detail: |
-            Worked on several web applications for the company's CRM
+    detail: Worked as a Junior Software Developer on several web applications for the company's CRM and being a support level 3.
     i18n: company_c_desc
   date:
     detail: 'Feb 2018 - Feb 2019'
