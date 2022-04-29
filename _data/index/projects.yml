@@ -16,10 +16,10 @@
 #  img: /static/assets/img/landing/google.png
  
 - name: Financial Planning Application
+  desc: 'Vue.js, Vuetify, JavaScript, Google Firebase, Node.js, Faker'
 #  i18n: google
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
-   desc: 'Vue.js, Vuetify, JavaScript, Google Firebase, Node.js, Faker'
    
 - name: Time Series Web Application
   desc: 'HTML, CSS, JavaScript, jQuery, Bootstrap'
