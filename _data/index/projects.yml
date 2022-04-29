@@ -4,25 +4,28 @@
 
 - name: Web application for optimizing stock market investment strategies
   desc: '.NET Core, C#, JavaScript, Vue.js, LINQ, EF, T SQL, xUnit, Visual Paradigm'
+  img: /static/assets/img/landing/project.jpg
 #  i18n: cpython
 #  gh_user: python
 #  repo: cpython
-#  img: /static/assets/img/landing/python.png
 
 - name: Web application for optimizing collaborations on projects
   desc: '.NET Core, C#, JavaScript, Vue.js, LINQ, EF, T SQL, xUnit, Visual Paradigm'
+  img: /static/assets/img/landing/project.jpg
 #  i18n: google
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
  
 - name: Financial Planning Application
   desc: 'Vue.js, Vuetify, JavaScript, Google Firebase, Node.js, Faker'
+  img: /static/assets/img/landing/project.jpg
 #  i18n: google
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
    
 - name: Time Series Web Application
   desc: 'HTML, CSS, JavaScript, jQuery, Bootstrap'
+  img: /static/assets/img/landing/project.jpg
 #  i18n: google
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
