@@ -6,7 +6,7 @@
 #  gh_user: python
 #  repo: cpython
 #  img: /static/assets/img/landing/python.png
-  desc: '.NET Core, C#, JavaScript, Vue.js, LINQ, EF, T SQL, xUnit, Visual Paradigm'
+   desc: '.NET Core, C#, JavaScript, Vue.js, LINQ, EF, T SQL, xUnit, Visual Paradigm'
 
 - name: Web application for optimizing collaborations on projects
 #  i18n: google
