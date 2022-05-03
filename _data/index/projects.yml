@@ -29,3 +29,24 @@
 #  i18n: google
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
+
+- name: Quiz Application in Android
+  desc: 'Android Studio, Java, SQLite, Google Firebase'
+  img: /static/assets/img/landing/project.jpg
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+
+- name: Restaurant Management Application
+  desc: 'Windows Forms, C#, Access Database'
+  img: /static/assets/img/landing/project.jpg
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+
+- name: Personal Budget Manager (C++)
+  desc: ''
+  img: /static/assets/img/landing/project.jpg
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
