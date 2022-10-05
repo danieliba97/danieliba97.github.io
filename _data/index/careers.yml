@@ -12,7 +12,7 @@
   job:
     detail: Software Engineer
     i18n: company_a_job
-  icon: cognizant
+  icon: cognizant.jpg
   present: true
   
 - name:
@@ -27,7 +27,8 @@
   job:
     detail: Senior Software Engineer / Technical Lead
     i18n: company_a_job
-  icon: mantu_logo
+  icon: mantu.png
+  present: false
 
 - name:
     detail: Mantu
@@ -41,7 +42,8 @@
   job:
     detail: Software Engineer
     i18n: company_b_job
-  icon: mantu_logo
+  icon: mantu.png
+  present: false
   
 - name:
     detail: Mantu
@@ -55,4 +57,5 @@
   job:
     detail: Junior Software Developer
     i18n: company_c_job
-  icon: mantu_logo
+  icon: mantu.png
+  present: false
